@@ -25,8 +25,9 @@ ser uma decisão sua, não algo que aparece na tela enquanto você pensa.
 | 01 | Fundamentos de Python | 16 (4 teoria, 12 código) | 2h30 | [`lista_01_fundamentos.ipynb`](lista_01_fundamentos.ipynb) | [`gabarito_01_fundamentos.ipynb`](gabarito_01_fundamentos.ipynb) |
 | 02 | Manipulação de Dados | 14 (3 teoria, 11 código) | 2h30 | [`lista_02_manipulacao.ipynb`](lista_02_manipulacao.ipynb) | [`gabarito_02_manipulacao.ipynb`](gabarito_02_manipulacao.ipynb) |
 | 03 | Visualização e EDA | 11 (3 teoria, 8 código) | 2h30 | [`lista_03_visualizacao.ipynb`](lista_03_visualizacao.ipynb) | [`gabarito_03_visualizacao.ipynb`](gabarito_03_visualizacao.ipynb) |
+| 04 | SQL | 14 (4 teoria, 10 código) | 2h30 | [`lista_04_sql.ipynb`](lista_04_sql.ipynb) | [`gabarito_04_sql.ipynb`](gabarito_04_sql.ipynb) |
 
-**Total:** 49 exercícios · cerca de 8 horas
+**Total:** 63 exercícios · cerca de 10h30
 
 ## Como usar
 
@@ -35,10 +36,11 @@ ser uma decisão sua, não algo que aparece na tela enquanto você pensa.
    quarenta minutos travado é hora de consultar.
 3. Ao consultar, **entenda e refaça sem olhar**. Ler a solução e seguir em frente não
    fixa nada.
-4. As listas 02 e 03 usam os dados de [`data/`](../data). Se der `FileNotFoundError`:
+4. As listas 02, 03 e 04 usam os dados de [`data/`](../data) — a lista 04 usa o banco
+   `capacitacao.db`. Se der `FileNotFoundError`:
    no **Colab**, execute a célula de *setup* que fica no topo do notebook; no **VS Code**,
    confira se você abriu a *pasta* do repositório — e não o arquivo solto — para que o
-   notebook rode de dentro de `04_Exercicios/`.
+   notebook rode de dentro de `05_Exercicios/`.
 5. Ao terminar, rode `Reiniciar sessão e executar tudo`.
 
 > **Sobre os gabaritos:** as soluções são **uma** possibilidade entre várias. Se a sua for
@@ -58,3 +60,4 @@ ser uma decisão sua, não algo que aparece na tela enquanto você pensa.
 ## Palavras-chave
 
 `exercício` · `teoria` · `prática` · `gabarito` · `depuração` · `mensagem de erro`
+· `SQL` · `consulta`

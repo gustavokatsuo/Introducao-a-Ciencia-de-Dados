@@ -36,7 +36,7 @@ realmente importa.
 
 ## Exercícios
 
-[`04_Exercicios/lista_00_configuracao.ipynb`](../04_Exercicios/lista_00_configuracao.ipynb)
+[`05_Exercicios/lista_00_configuracao.ipynb`](../05_Exercicios/lista_00_configuracao.ipynb)
 — 8 exercícios, cerca de 40 minutos. Gabarito em arquivo separado.
 
 ## Ao final deste módulo você deve conseguir

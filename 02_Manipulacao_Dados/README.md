@@ -33,7 +33,7 @@ anos de cotações da B3 e indicadores do Banco Central.
 
 ## Exercícios
 
-[`04_Exercicios/lista_02_manipulacao.ipynb`](../04_Exercicios/lista_02_manipulacao.ipynb)
+[`05_Exercicios/lista_02_manipulacao.ipynb`](../05_Exercicios/lista_02_manipulacao.ipynb)
 — 14 exercícios sobre os dados reais, cerca de 2h30.
 
 ## Ao final deste módulo você deve conseguir

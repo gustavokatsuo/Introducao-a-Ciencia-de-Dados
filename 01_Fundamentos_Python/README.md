@@ -31,7 +31,7 @@ prévio da área.
 
 ## Exercícios
 
-[`04_Exercicios/lista_01_fundamentos.ipynb`](../04_Exercicios/lista_01_fundamentos.ipynb)
+[`05_Exercicios/lista_01_fundamentos.ipynb`](../05_Exercicios/lista_01_fundamentos.ipynb)
 — 16 exercícios, cerca de 2h30. É a lista mais importante da capacitação.
 
 ## Ao final deste módulo você deve conseguir

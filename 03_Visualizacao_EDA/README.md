@@ -32,8 +32,11 @@ descreve o passado observado. Não é previsão.
 
 ## Exercícios
 
-[`04_Exercicios/lista_03_visualizacao.ipynb`](../04_Exercicios/lista_03_visualizacao.ipynb)
+[`05_Exercicios/lista_03_visualizacao.ipynb`](../05_Exercicios/lista_03_visualizacao.ipynb)
 — 11 exercícios, cerca de 2h30, terminando em um ciclo completo de EDA feito por você.
+
+**Próximo módulo:** [04 · SQL](../04_SQL) — buscar os dados no banco, antes de eles
+virarem um arquivo.
 
 ## Ao final deste módulo você deve conseguir
 

@@ -156,6 +156,40 @@ Ler exige a biblioteca `openpyxl`, já incluída no `requirements.txt`.
 
 ---
 
+## `capacitacao.db`
+
+O banco **SQLite** usado no módulo 04. Não traz dado novo: é uma reorganização dos CSVs
+acima em quatro tabelas relacionais, com chaves de verdade.
+
+| Tabela | Linhas | Origem | Chave |
+|---|---|---|---|
+| `empresas` | 8 | `empresas_b3.csv` | `ticker` (primária) |
+| `cotacoes` | 9.968 | `acoes_b3.csv` | `data` + `ticker` (primária); `ticker` → `empresas` |
+| `indicadores` | 60 | `indicadores_macro.csv` | `data` (primária) |
+| `clientes` | 400 | `clientes_corretora.csv` | sem chave — a tabela suja |
+
+A escolha de reaproveitar exatamente os mesmos dados é deliberada: **a mesma pergunta,
+respondida em pandas e em SQL, tem que dar o mesmo número.** É o que permite ao trainee
+conferir sozinho se entendeu, e é o eixo do módulo 04 inteiro.
+
+Duas decisões de esquema que aparecem nas aulas:
+
+- **As datas são texto em formato ISO (`AAAA-MM-DD`).** O SQLite não tem tipo de data; o
+  ISO é o formato em que a ordem alfabética coincide com a cronológica, o que faz
+  `WHERE data BETWEEN '2025-01-01' AND '2025-01-31'` funcionar como se espera.
+- **A tabela `clientes` entra suja, e sem tipos numéricos.** `patrimonio_investido` é
+  `TEXT` porque guarda coisas como `'R$ 412.666,21'` — e limpar isso é o exercício.
+
+Gerado por [`coleta/gerar_banco.py`](coleta/gerar_banco.py), que reconstrói o banco do zero
+a partir dos CSVs e confere linha a linha:
+
+```bash
+cd data/coleta
+python gerar_banco.py
+```
+
+---
+
 ## Reprodutibilidade
 
 O script [`coleta/coletar_dados.py`](coleta/coletar_dados.py) documenta e reproduz a

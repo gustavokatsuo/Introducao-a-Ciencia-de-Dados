@@ -14,8 +14,9 @@ Este repositório contém o material completo da Capacitação Introdutória de 
 Dados da FEA.dev — a organização estudantil de finanças quantitativas e ciência de dados
 da USP.
 
-O curso parte do **zero absoluto** em programação e chega, em cinco módulos, a uma
-análise exploratória completa, com dados reais do mercado brasileiro.
+O curso parte do **zero absoluto** em programação e chega a uma análise exploratória
+completa e à consulta de bancos de dados em SQL, sempre com dados reais do mercado
+brasileiro.
 
 ### O que este material não cobre
 
@@ -82,9 +83,10 @@ Parte A, VS Code na Parte B.
 | [**01 · Fundamentos de Python**](01_Fundamentos_Python) | Tipos, operadores, condicionais, loops, listas, dicionários, funções, escopo | 4 | 4h10 |
 | [**02 · Manipulação de Dados**](02_Manipulacao_Dados) | NumPy, pandas, seleção, filtros, `groupby`, `merge`, limpeza | 4 | 4h50 |
 | [**03 · Visualização e EDA**](03_Visualizacao_EDA) | Matplotlib, Seaborn, estatística descritiva, o processo de EDA | 4 | 4h30 |
-| [**04 · Exercícios**](04_Exercicios) | Uma lista por módulo, com gabarito em arquivo separado | 8 | 8h |
+| [**04 · SQL**](04_SQL) | Modelo relacional, `SELECT`, `GROUP BY`, `JOIN`, CTEs, funções de janela, SQL com pandas | 5 | 6h20 |
+| [**05 · Exercícios**](05_Exercicios) | Uma lista por módulo, com gabarito em arquivo separado | 10 | 10h30 |
 
-**Carga total estimada:** cerca de 22 horas, distribuídas em 6 a 8 semanas.
+**Carga total estimada:** cerca de 31 horas, distribuídas em 8 a 10 semanas.
 
 Cada módulo tem seu próprio `README.md`, com contexto, lista de notebooks, tempo
 estimado, bibliografia e palavras-chave.
@@ -92,10 +94,12 @@ estimado, bibliografia e palavras-chave.
 ### Ordem sugerida
 
 ```
-00 → 01 → lista 01 → 02 → lista 02 → 03 → lista 03
+00 → 01 → lista 01 → 02 → lista 02 → 03 → lista 03 → 04 → lista 04
 ```
 
-A lista 00 pode ser feita junto com o módulo 00. **Não pule as listas**: cada módulo
+A lista 00 pode ser feita junto com o módulo 00. O módulo 04 (SQL) depende do 02: ele
+compara cada operação de SQL com a equivalente em pandas, e essa ponte é o que o torna
+curto. **Não pule as listas**: cada módulo
 assume o anterior com fluência, e a diferença entre ler o material e conseguir usá-lo
 está inteiramente nos exercícios.
 
@@ -115,9 +119,11 @@ números das aulas não mudam no meio do semestre.
 | `empresas_b3.csv` | Cadastro das empresas (setor, controle, fundação) | Informação pública |
 | `clientes_corretora.csv` | Base de clientes de corretora — **fictícia**, propositalmente suja | Gerada |
 | `acoes_2025.xlsx` | Recorte em Excel, com duas abas | Yahoo Finance |
+| `capacitacao.db` | Banco SQLite do módulo 04, com as quatro tabelas acima | Construído dos CSVs |
 
 A coleta está documentada e é reproduzível: veja
-[`data/coleta/coletar_dados.py`](data/coleta/coletar_dados.py) e
+[`data/coleta/coletar_dados.py`](data/coleta/coletar_dados.py),
+[`data/coleta/gerar_banco.py`](data/coleta/gerar_banco.py) e
 [`data/README.md`](data/README.md).
 
 As figuras didáticas em [`assets/`](assets) são geradas por

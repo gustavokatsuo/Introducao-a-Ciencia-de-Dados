@@ -58,6 +58,7 @@ jobs:
               "empresas_b3.csv",
               "clientes_corretora.csv",
               "acoes_2025.xlsx",
+              "capacitacao.db",
           ]
           faltando = [nome for nome in esperados if not Path("data", nome).exists()]
           if faltando:

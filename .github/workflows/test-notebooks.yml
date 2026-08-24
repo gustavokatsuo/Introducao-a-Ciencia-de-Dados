@@ -1,0 +1,102 @@
+name: Testar notebooks
+
+# Executa todos os notebooks do repositório do começo ao fim.
+# A ideia é simples: se um notebook não roda, os trainees vão travar nele.
+# Melhor descobrir aqui do que na aula.
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  executar-notebooks:
+    name: Python ${{ matrix.python-version }}
+    runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+      matrix:
+        # A versão mínima declarada no README e uma versão recente,
+        # para garantir que o material funcione nas duas pontas.
+        python-version: ["3.9", "3.12"]
+
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Registrar versões instaladas
+        run: pip list
+
+      - name: Conferir se os dados estão vendorizados
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import sys
+
+          esperados = [
+              "acoes_b3.csv",
+              "ibovespa.csv",
+              "indicadores_macro.csv",
+              "empresas_b3.csv",
+              "clientes_corretora.csv",
+              "acoes_2025.xlsx",
+          ]
+          faltando = [nome for nome in esperados if not Path("data", nome).exists()]
+          if faltando:
+              print("Arquivos de dados ausentes:", faltando)
+              sys.exit(1)
+          print("Todos os arquivos de dados estão presentes.")
+          PY
+
+      - name: Executar todos os notebooks
+        run: |
+          set -o pipefail
+          falhas=0
+          # O nbconvert usa a pasta do notebook como diretório de trabalho,
+          # então os caminhos relativos do material (../data/...) funcionam.
+          for notebook in $(find . -name "*.ipynb" -not -path "*/.ipynb_checkpoints/*" | sort); do
+            echo "::group::$notebook"
+            if jupyter nbconvert --to notebook --execute \
+                 --ExecutePreprocessor.timeout=600 \
+                 --output-dir /tmp/executados \
+                 "$notebook"; then
+              echo "OK    $notebook"
+            else
+              echo "FALHA $notebook"
+              falhas=$((falhas + 1))
+            fi
+            echo "::endgroup::"
+          done
+          echo "-----------------------------------------"
+          if [ "$falhas" -gt 0 ]; then
+            echo "$falhas notebook(s) falharam."
+            exit 1
+          fi
+          echo "Todos os notebooks executaram sem erro."
+
+      - name: Guardar os notebooks executados
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: notebooks-executados-py${{ matrix.python-version }}
+          path: /tmp/executados
+          retention-days: 7
+          if-no-files-found: ignore

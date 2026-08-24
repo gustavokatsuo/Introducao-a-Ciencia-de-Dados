@@ -1,0 +1,50 @@
+# --- Jupyter / notebooks -----------------------------------------------------
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.jupyter/
+.virtual_documents/
+
+# --- Python ------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- ambientes virtuais ------------------------------------------------------
+.venv/
+venv/
+env/
+ENV/
+.conda/
+.python-version
+
+# --- sistema operacional -----------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- editores ----------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- saídas temporárias ------------------------------------------------------
+# Figuras geradas durante a execução das aulas não devem ser versionadas.
+# As figuras DIDÁTICAS ficam em assets/ e são geradas por assets/gerar_figuras.py.
+*.log
+.cache/
+saidas/
+output/
+
+# --- o que NÃO é ignorado ----------------------------------------------------
+# data/  -> os dados são vendorizados de propósito e devem ser versionados.
+# assets/*.png -> as figuras didáticas também.

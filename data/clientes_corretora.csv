@@ -1,0 +1,401 @@
+id_cliente,nome,idade,cidade,estado,perfil_investidor,data_cadastro,patrimonio_investido,aporte_mensal,ativo
+1209,Rafaela Moraes,56.0,porto alegre,RS,Arrojado,2020-09-25,"412.666,21",6207.14,sim
+1280,Elisa Gomes,18.0,Santos,SP,Arrojado,27/02/2024,"233.429,30",1398.01,nao
+1033,Felipe Esteves,71.0,SOROCABA,SP,,12/07/2020,"41.834,85",683.89,sim
+1210,Bruno Moraes,37.0,sorocaba,SP,Moderado,2024-03-07,"148.953,74",1377.08,1
+1093,Mariana Ibrahim,,Santos,SP,CONSERVADOR,2024-08-25,"50.399,60",1249.88,sim
+1084,Olívia Higashi,24.0,Santos,SP,Moderado,2024-11-01,"50.270,90",1223.75,nao
+1329,Thiago Moraes,20.0,Campinas,SP,Conservador,2019-07-23,"R$ 35.003,18",877.45,sim
+1094,Carla Ibrahim,75.0,Recife,PE,Moderado,05/07/2021,"R$ 86.574,58",833.67,sim
+1266,Isabela Nunes,26.0,ribeirão preto,SP,Moderado,2020-02-13,"R$ 143.635,95",1747.31,sim
+1126,Karina Ferreira,32.0,Santos,SP,Conservador,01/10/2021,"24.829,35",675.35,sim
+1009,Ana Esteves,52.0,rio de janeiro,RJ,Conservador,2024-12-01,"64.120,63",975.48,nao
+1361,Karina Ribeiro,42.0,Santos,SP,moderado,2021-02-05,"87.188,45",733.83,nao
+1056,Rafaela Tanaka,53.0,Porto Alegre,RS,Arrojado,2023-01-07,,3018.7,sim
+1072,João Santos,43.0,Rio de Janeiro,RJ,Conservador,2022-06-02,"89.046,13",2126.71,sim
+1132,Carla Ibrahim,18.0,Curitiba,PR,Arrojado,2024-06-12,"225.873,25",1479.83,sim
+1042,Gabriela Junior,57.0,Campinas,SP,Conservador,2024-06-24,"81.769,47",2282.08,1
+1278,Mariana Dias,25.0,Rio de Janeiro,RJ,Conservador,2020-12-26,"48.931,80",1231.79,sim
+1376,Isabela Klein,55.0,Recife,PE,Conservador,2021-10-06,"170.372,44",1046.35,sim
+1231,Carla Ibrahim,43.0,SÃO PAULO,SP,Moderado,2022-02-20,"30.616,10",559.98,sim
+1363,Sofia Higashi,23.0,Rio de Janeiro,RJ,,2024-03-17,"51.345,49",481.34,sim
+1077,Gabriela Dias,19.0,Rio de Janeiro,RJ,Arrojado,2021-01-12,"267.417,14",2523.79,nao
+1015,Nicolas Ibrahim,64.0,Ribeirão Preto,SP,conservador,2024-06-17,"18.057,26",432.71,sim
+1285,Pedro Ferreira,56.0,Belo Horizonte,MG,Moderado,2019-05-22,"237.689,54",6280.12,sim
+1271,Diego Almeida,39.0,RECIFE,PE,Moderado,2025-02-13,"126.342,98",1693.9,sim
+1000,Vitor Oliveira,62.0,São Paulo,SP,Conservador,2022-02-06,"60.438,58",1355.89,1
+1242,Diego Ibrahim,71.0,Rio de Janeiro,RJ,Moderado,2023-06-15,"214.340,61",6227.67,0
+1114,Pedro Klein,63.0,Rio de Janeiro,RJ,Moderado,2025-11-20,"59.157,36",1632.7,sim
+1225,Nicolas Junior,18.0,Curitiba,PR,Arrojado,21/05/2023,"R$ 966.329,74",13336.57,sim
+1262,Elisa Lima,60.0,Rio de Janeiro,RJ,  Conservador ,2024-11-06,"R$ 96.660,56",1397.23,sim
+1104,Gabriela Queiroz,,Campinas,SP,Moderado,2023-05-15,"140.313,68",1460.51,nao
+1358,Sofia Gomes,48.0,Belo Horizonte,MG,Conservador,2022-06-01,"23.469,70",533.68,nao
+1193,Diego Nunes,67.0,Sorocaba,SP,Moderado,2021-08-11,"98.033,13",938.2,1
+1261,Olívia Junior,71.0,Rio de Janeiro,RJ,Moderado,2020-05-28,"177.133,60",1659.77,sim
+1057,Karina Oliveira,67.0,RECIFE,PE,Arrojado,20/09/2022,,2033.2,sim
+1232,Carla Ferreira,29.0,Santos,SP,Arrojado,2019-07-28,"R$ 188.887,86",2595.15,sim
+1116,Thiago Klein,36.0,Belo Horizonte,MG,Moderado,01/08/2023,"175.684,09",2675.41,1
+1113,Bruno Oliveira,37.0,Recife,PE,Moderado,2022-05-14,"111.775,33",1618.1,sim
+1342,Gabriela Esteves,66.0,Ribeirão Preto,SP,Conservador,2025-06-17,,296.76,sim
+1158,Nicolas Santos,68.0,Campinas,SP,Arrojado,18/03/2022,"67.538,78",662.39,sim
+1141,Olívia Ribeiro,59.0,Belo Horizonte,MG,Conservador,2021-07-28,"30.376,85",169.52,1
+1261,Olívia Junior,71.0,Rio de Janeiro,RJ,Moderado,2020-05-28,"177.133,60",1659.77,sim
+1055,Ana Almeida,67.0,Ribeirão Preto,SP,Conservador,2019-11-22,"R$ 32.211,44",689.54,nao
+1076,João Queiroz,47.0,Santos,SP,Arrojado,11/05/2023,"171.784,62",4510.52,nao
+1025,Bruno Queiroz,60.0,Santos,SP,  Conservador ,21/01/2019,"20.397,69",224.87,0
+1082,Isabela Barbosa,63.0,Rio de Janeiro,RJ,Moderado,10/12/2020,"R$ 171.985,66",2859.15,nao
+1265,Nicolas Junior,20.0,Rio de Janeiro,RJ,  Arrojado ,2025-05-13,"222.111,67",1754.12,nao
+1148,Rafaela Lima,63.0,rio de janeiro,RJ,,2023-02-13,"42.503,95",917.5,sim
+1181,Elisa Queiroz,51.0,Ribeirão Preto,SP,Conservador,06/03/2021,"22.148,24",635.28,sim
+1022,Felipe Moraes,39.0,,RJ,Arrojado,2023-12-06,"412.341,01",5330.94,sim
+1173,Thiago Lima,24.0,Recife,PE,Conservador,2025-02-19,"88.767,37",1314.83,nao
+1046,Lucas Almeida,32.0,São Paulo,SP,,2019-03-05,"R$ 76.047,12",1551.68,1
+1321,Bruno Nunes,61.0,Campinas,SP,Conservador,2019-02-22,"32.910,64",761.64,sim
+1338,Ana Esteves,,Ribeirão Preto,SP,Moderado,2025-09-16,"R$ 32.936,50",399.54,sim
+1070,Elisa Pereira,57.0,Curitiba,PR,Moderado,2023-01-10,"93.405,71",1963.6,nao
+1374,João Esteves,57.0,Belo Horizonte,MG,Conservador,2019-09-27,"27.301,01",805.9,sim
+1039,Mariana Pereira,64.0,São Paulo,SP,,26/08/2023,"R$ 200.606,04",4912.23,nao
+1223,Sofia Higashi,42.0,Curitiba,PR,Conservador,2023-07-04,"41.193,53",726.32,sim
+1172,Rafaela Tanaka,40.0,Recife,PE,conservador,2022-04-15,"R$ 31.278,87",747.2,sim
+1030,Isabela Almeida,19.0,Sorocaba,SP,Moderado,2024-02-21,"121.218,62",927.01,sim
+1152,Bruno Gomes,64.0,CURITIBA,PR,  Moderado ,2025-11-16,"96.374,33",828.6,sim
+1124,Diego Nunes,24.0,Sorocaba,SP,Arrojado,2023-11-05,"128.807,96",1495.91,sim
+1294,Sofia Ribeiro,36.0,Santos,SP,Conservador,09/03/2022,"R$ 22.113,95",340.64,sim
+1255,Elisa Moraes,24.0,Ribeirão Preto,SP,Moderado,2023-07-10,"116.312,03",1858.6,sim
+1078,Felipe Dias,199.0,Belo Horizonte,MG,Conservador,2021-01-16,"44.356,75",885.45,sim
+1101,João Esteves,23.0,Campinas,SP,CONSERVADOR,2023-09-01,"62.348,15",484.18,1
+1031,Nicolas Carvalho,28.0,Recife,PE,Arrojado,2019-11-27,"116.255,29",2862.1,sim
+1352,Henrique Santos,40.0,Ribeirao Preto,SP,moderado,09/11/2023,"194.715,56",2072.63,sim
+1268,Karina Esteves,32.0,Sorocaba,SP,Moderado,01/05/2024,"120.822,70",3051.69,nao
+1116,Thiago Klein,36.0,Belo Horizonte,MG,Moderado,01/08/2023,"175.684,09",2675.41,1
+1073,Vitor Lima,32.0,Campinas,SP,Conservador,2022-03-26,"16.906,73",207.98,sim
+1320,Thiago Pereira,46.0,Recife,PE,Conservador,04/01/2024,"74.035,74",1346.78,sim
+1140,Felipe Gomes,29.0,CURITIBA,PR,Moderado,2024-08-17,"34.505,06",994.54,sim
+1005,Bruno Gomes,37.0,Campinas,SP,  Moderado ,2023-08-07,"165.549,49",4273.98,sim
+1045,Vitor Pereira,,,SP,Arrojado,04/06/2024,"R$ 195.513,17",3879.38,sim
+1311,Olívia Esteves,59.0,São Paulo,SP,Conservador,2024-07-24,"R$ 33.801,80",216.58,sim
+1246,Karina Gomes,32.0,Santos,SP,Conservador,2019-12-01,"R$ 31.022,40",925.65,sim
+1227,Thiago Queiroz,63.0,,PE,Moderado,2023-04-09,"R$ 45.249,99",912.2,nao
+1369,João Higashi,36.0,,MG,Moderado,2025-07-07,"79.720,14",1473.16,sim
+1176,Vitor Pereira,27.0,Belo Horizonte,MG,Moderado,07/12/2019,"34.104,23",627.93,sim
+1289,Gabriela Lima,51.0,Curitiba,PR,Conservador,2024-03-24,"45.869,17",424.27,sim
+1003,Karina Dias,43.0,SANTOS,SP,Moderado,2019-06-26,"R$ 90.631,96",1510.66,1
+1018,João Nunes,19.0,Ribeirão Preto,SP,Arrojado,2020-01-02,"148.727,11",3653.98,sim
+1202,Carla Oliveira,38.0,Curitiba,PR,Moderado,2021-04-07,,1559.63,sim
+1250,Ana Tanaka,67.0,Rio de Janeiro,RJ,Conservador,28/07/2020,"R$ 13.041,40",312.78,0
+1274,Sofia Ribeiro,33.0,Recife,PE,Moderado,2021-04-04,"R$ 52.829,49",856.17,sim
+1063,Mariana Gomes,41.0,Sorocaba,SP,conservador,2023-12-18,"R$ 25.292,97",264.08,nao
+1248,Karina Barbosa,75.0,Sorocaba,SP,Arrojado,2023-04-02,"392.164,45",4599.41,sim
+1301,Olívia Esteves,43.0,Belo Horizonte,MG,Arrojado,2022-02-22,"142.006,03",839.36,sim
+1108,Felipe Gomes,,Sorocaba,SP,Moderado,2019-08-13,"101.230,68",634.01,sim
+1090,Gabriela Ibrahim,21.0,Sao Paulo,SP,Conservador,2025-08-27,"R$ 47.681,79",778.74,sim
+1233,Diego Carvalho,57.0,Recife,PE,Conservador,2019-02-26,"55.831,58",574.75,nao
+1335,Ana Tanaka,32.0,Recife,PE,Moderado,18/07/2019,"123.584,23",2751.28,sim
+1118,Elisa Tanaka,32.0,Curitiba,PR,Conservador,2022-04-10,"38.735,38",1046.86,sim
+1220,Rafaela Barbosa,55.0,Curitiba,PR,Moderado,2020-11-18,"209.979,31",5865.75,nao
+1180,Karina Santos,56.0,belo horizonte,MG,CONSERVADOR,2025-06-17,"16.933,49",101.64,0
+1314,Henrique Almeida,48.0,Santos,SP,Moderado,2025-04-22,"R$ 219.699,08",2776.34,sim
+1373,Carla Santos,43.0,Belo Horizonte,MG,Moderado,2022-04-01,"R$ 117.109,77",2332.61,sim
+1266,Isabela Nunes,26.0,ribeirão preto,SP,Moderado,2020-02-13,"R$ 143.635,95",1747.31,sim
+1239,Isabela Barbosa,53.0,Campinas,SP,Moderado,2021-01-19,"61.500,49",994.52,sim
+1075,Karina Pereira,60.0,Curitiba,PR,Moderado,11/04/2022,"158.371,99",4135.41,sim
+1247,Thiago Ibrahim,41.0,Belo Horizonte,MG,Conservador,2021-03-27,"R$ 57.019,12",1472.29,sim
+1110,Vitor Carvalho,40.0,rio de janeiro,RJ,Moderado,2024-10-08,"223.299,18",4281.41,sim
+1016,João Dias,51.0,Campinas,SP,Moderado,2020-01-23,"62.649,57",964.5,nao
+1066,Pedro Esteves,60.0,Porto Alegre,RS,Arrojado,2020-07-21,"R$ 357.848,26",6294.85,sim
+1153,Bruno Almeida,34.0,Campinas,SP,Conservador,2024-11-02,"40.068,45",637.41,sim
+1007,Ana Carvalho,,São Paulo,SP,Moderado,2022-07-19,"92.264,66",1519.87,nao
+1019,Rafaela Ibrahim,27.0,Sorocaba,SP,Moderado,17/07/2022,"127.449,69",1693.71,nao
+1137,Rafaela Barbosa,28.0,Recife,PE,CONSERVADOR,2019-04-19,"31.846,24",509.58,sim
+1355,Nicolas Ferreira,21.0,Porto Alegre,RS,Arrojado,2023-02-10,,5351.92,sim
+1349,Henrique Dias,58.0,Porto Alegre,RS,Conservador,15/03/2024,"R$ 23.542,40",240.88,sim
+1131,Karina Ibrahim,56.0,Santos,SP,Moderado,2025-03-18,"137.675,61",1417.9,sim
+1262,Elisa Lima,60.0,Rio de Janeiro,RJ,  Conservador ,2024-11-06,"R$ 96.660,56",1397.23,sim
+1292,Carla Oliveira,36.0,Ribeirão Preto,SP,Moderado,2023-02-14,"R$ 159.668,06",2565.29,1
+1055,Ana Almeida,67.0,Ribeirão Preto,SP,Conservador,2019-11-22,"R$ 32.211,44",689.54,nao
+1297,Gabriela Moraes,45.0,Ribeirão Preto,SP,Conservador,11/09/2020,"43.993,13",436.59,sim
+1060,Lucas Ibrahim,28.0,,PR,Arrojado,2025-08-08,"181.422,00",4463.35,sim
+1079,Karina Oliveira,59.0,curitiba,PR,Moderado,2025-08-28,"218.514,61",5252.18,sim
+1285,Pedro Ferreira,56.0,Belo Horizonte,MG,Moderado,2019-05-22,"237.689,54",6280.12,sim
+1305,Lucas Ibrahim,30.0,Recife,PE,Moderado,14/10/2022,"R$ 194.233,83",2547.59,sim
+1281,Gabriela Gomes,38.0,Ribeirão Preto,SP,Conservador,2021-12-08,"R$ 39.248,70",574.18,nao
+1157,Diego Ibrahim,20.0,Campinas,SP,Conservador,2023-12-24,"67.920,72",572.59,sim
+1109,Mariana Moraes,29.0,belo horizonte,MG,MODERADO,2020-11-01,,5288.11,sim
+1017,Isabela Gomes,57.0,Santos,SP,Moderado,2023-12-03,"77.371,39",2176.3,sim
+1347,Thiago Lima,71.0,Porto Alegre,RS,Arrojado,2025-08-26,"539.783,31",5780.22,sim
+1024,Nicolas Ibrahim,69.0,porto alegre,RS,Arrojado,01/10/2021,"304.261,04",3924.43,nao
+1175,Sofia Lima,44.0,Sorocaba,SP,Moderado,2021-12-01,"53.035,55",1430.32,sim
+1351,Bruno Junior,27.0,Curitiba,PR,Arrojado,2024-05-24,"R$ 336.663,98",8533.72,sim
+1332,Isabela Ribeiro,,Rio de Janeiro,RJ,Arrojado,2023-06-25,"207.449,50",4368.46,nao
+1167,Thiago Queiroz,43.0,Rio de Janeiro,RJ,Conservador,2023-02-02,"R$ 59.720,32",1714.94,0
+1245,Rafaela Esteves,32.0,Curitiba,PR,Moderado,26/05/2025,"112.427,86",2950.47,sim
+1311,Olívia Esteves,59.0,São Paulo,SP,Conservador,2024-07-24,"R$ 33.801,80",216.58,sim
+1145,Henrique Almeida,39.0,Ribeirão Preto,SP,Conservador,2020-07-12,"31.119,05",825.1,sim
+1258,Vitor Dias,19.0,Rio de Janeiro,RJ,,2024-10-25,"137.301,61",727.88,sim
+1177,Elisa Lima,72.0,Porto Alegre,RS,Arrojado,2022-07-17,"82.620,72",2088.16,1
+1119,Elisa Nunes,21.0,Campinas,SP,Conservador,14/02/2025,"46.630,50",794.46,sim
+1194,Diego Queiroz,43.0,Campinas,SP,Conservador,2024-12-21,"57.336,77",528.75,sim
+1229,Karina Ribeiro,66.0,PORTO ALEGRE,RS,,2020-07-12,,4599.98,sim
+1265,Nicolas Junior,20.0,Rio de Janeiro,RJ,  Arrojado ,2025-05-13,"222.111,67",1754.12,nao
+1218,Felipe Carvalho,34.0,Ribeirão Preto,SP,Moderado,2023-04-18,,2446.34,nao
+1307,Ana Ibrahim,23.0,Ribeirão Preto,SP,Moderado,2019-12-22,"85.624,01",497.89,nao
+1036,Gabriela Tanaka,28.0,CAMPINAS,SP,Conservador,2024-05-23,"51.843,30",1141.48,sim
+1139,Felipe Nunes,70.0,Porto Alegre,RS,Conservador,2020-04-19,"34.407,06",291.3,sim
+1291,Felipe Ribeiro,47.0,Porto Alegre,RS,Conservador,2025-05-15,"59.811,64",476.52,sim
+1155,Karina Pereira,42.0,Porto Alegre,RS,Moderado,2022-03-12,"113.797,20",2709.31,sim
+1196,Vitor Almeida,21.0,recife,PE,Moderado,2023-01-18,"242.685,99",5081.9,sim
+1284,Bruno Ferreira,35.0,Curitiba,PR,Arrojado,2019-10-13,"96.178,17",2871.57,nao
+1059,Isabela Dias,47.0,Recife,PE,Moderado,02/06/2023,"R$ 142.816,95",3870.86,nao
+1111,Pedro Ribeiro,72.0,SOROCABA,SP,  Moderado ,01/12/2019,"R$ 126.414,60",1921.38,sim
+1165,Nicolas Barbosa,37.0,sao paulo,SP,Moderado,2025-01-08,"84.056,38",2287.1,nao
+1363,Sofia Higashi,23.0,Rio de Janeiro,RJ,,2024-03-17,"51.345,49",481.34,sim
+1006,Diego Queiroz,,Sorocaba,SP,Conservador,18/02/2024,"R$ 45.112,45",995.29,sim
+1333,Vitor Esteves,58.0,Campinas,SP,Arrojado,2022-11-07,"238.804,62",2547.44,nao
+1275,Lucas Esteves,,Santos,SP,Conservador,2021-05-28,"57.489,12",332.1,sim
+1150,Isabela Esteves,23.0,Campinas,SP,Moderado,2020-06-09,,2435.05,sim
+1010,Nicolas Ibrahim,34.0,PORTO ALEGRE,RS,Conservador,2025-10-15,"58.477,75",1106.74,1
+1192,Elisa Ibrahim,53.0,Porto Alegre,RS,Arrojado,2022-02-04,"R$ 520.191,58",7125.33,sim
+1103,Bruno Higashi,34.0,Curitiba,PR,Arrojado,08/11/2025,"148.768,93",2988.11,sim
+1081,Ana Carvalho,,Belo Horizonte,MG,CONSERVADOR,2021-08-28,"108.917,84",2586.75,nao
+1316,Bruno Queiroz,20.0,Campinas,SP,Moderado,2019-09-10,"503.996,89",3085.47,sim
+1232,Carla Ferreira,29.0,Santos,SP,Arrojado,2019-07-28,"R$ 188.887,86",2595.15,sim
+1375,Pedro Nunes,48.0,Ribeirão Preto,SP,Conservador,2024-03-21,"62.992,90",1043.79,sim
+1208,Pedro Barbosa,50.0,Sorocaba,SP,Moderado,20/03/2020,"57.964,16",447.28,sim
+1286,Sofia Dias,20.0,Porto Alegre,RS,Conservador,2019-06-24,"44.616,23",661.14,sim
+1168,Carla Nunes,74.0,Porto Alegre,RS,Moderado,23/08/2022,"115.360,09",1723.26,sim
+1353,Henrique Junior,28.0,SANTOS,SP,Arrojado,2023-09-14,"233.365,87",1575.89,1
+1089,Gabriela Carvalho,67.0,RIO DE JANEIRO,RJ,Moderado,2022-03-20,"120.409,12",3357.3,1
+1377,Olívia Higashi,,Sorocaba,SP,Moderado,06/01/2024,"197.703,43",1305.87,1
+1163,Sofia Barbosa,37.0,Recife,PE,Moderado,07/01/2020,"55.984,81",1231.0,1
+1147,Mariana Barbosa,,Recife,PE,Conservador,2025-04-05,"187.531,24",5311.36,nao
+1228,Gabriela Queiroz,,Sorocaba,SP,,2022-01-14,"R$ 81.833,29",1423.09,nao
+1092,Elisa Ferreira,48.0,Santos,SP,Moderado,2024-04-01,"169.379,98",3613.89,nao
+1069,Isabela Pereira,31.0,santos,SP,Conservador,17/01/2025,"7.833,34",226.86,1
+1123,Ana Esteves,60.0,rio de janeiro,RJ,Conservador,2024-01-09,"49.561,28",1189.49,1
+1096,Carla Moraes,21.0,Rio de Janeiro,RJ,Moderado,2024-01-02,"98.481,90",1261.97,0
+1143,Ana Oliveira,64.0,belo horizonte,MG,Arrojado,07/12/2025,"350.411,64",9139.81,sim
+1326,Rafaela Higashi,57.0,Rio de Janeiro,RJ,,2025-09-01,"95.154,52",1003.26,1
+1097,Diego Almeida,70.0,SANTOS,SP,conservador,2021-03-20,"54.384,62",807.78,nao
+1238,Mariana Santos,50.0,Recife,PE,Conservador,2020-08-13,"56.526,94",1161.43,sim
+1068,Sofia Ibrahim,28.0,SOROCABA,SP,Conservador,13/10/2023,"14.608,54",78.41,nao
+1023,Diego Ribeiro,75.0,Rio de Janeiro,RJ,conservador,2025-12-27,"31.144,53",494.49,sim
+1037,Thiago Ibrahim,63.0,Rio de Janeiro,RJ,Conservador,2022-08-24,"R$ 37.915,95",425.97,nao
+1144,Felipe Gomes,62.0,Ribeirão Preto,SP,,17/08/2023,"51.570,86",567.57,sim
+1122,Sofia Higashi,53.0,Curitiba,PR,Moderado,2019-02-13,"87.870,72",995.7,sim
+1182,Isabela Higashi,22.0,RIBEIRÃO PRETO,SP,Moderado,2019-06-11,"488.524,88",10188.61,sim
+1067,Bruno Ferreira,40.0,Santos,SP,Conservador,14/10/2019,"57.682,36",1502.62,sim
+1198,Vitor Oliveira,67.0,Campinas,SP,Moderado,2025-09-22,"293.654,96",6332.15,1
+1324,Lucas Gomes,45.0,Santos,SP,moderado,2024-07-24,"86.265,51",1303.21,sim
+1219,Felipe Almeida,19.0,Ribeirão Preto,SP,  Conservador ,2021-08-27,"198.683,68",5198.91,nao
+1317,Henrique Dias,66.0,Rio de Janeiro,RJ,Conservador,2020-12-11,"62.510,47",1861.63,nao
+1195,Karina Junior,48.0,campinas,SP,Moderado,2022-02-15,,2579.51,sim
+1125,Karina Klein,28.0,Sorocaba,SP,Moderado,2021-09-07,"207.910,90",5585.4,sim
+1146,Henrique Junior,64.0,Sorocaba,SP,Arrojado,2019-02-17,,6069.38,sim
+1371,Mariana Carvalho,61.0,Santos,SP,Arrojado,22/06/2023,"R$ 559.095,69",3652.35,sim
+1086,Gabriela Pereira,41.0,Curitiba,PR,ARROJADO,2022-11-12,"R$ 550.119,26",6019.11,1
+1336,Isabela Klein,63.0,Campinas,SP,Conservador,09/07/2019,"R$ 37.853,21",671.64,sim
+1340,Lucas Moraes,20.0,sorocaba,SP,,11/01/2023,"45.050,86",1346.52,sim
+1337,Thiago Ferreira,25.0,Santos,SP,Conservador,2021-08-15,"62.633,69",583.95,sim
+1354,João Pereira,43.0,Rio de Janeiro,RJ,Conservador,2019-07-07,"14.405,84",281.63,sim
+1334,Thiago Almeida,50.0,Santos,SP,Conservador,2025-02-13,"40.356,43",1122.12,1
+1302,Elisa Nunes,,curitiba,PR,  Conservador ,2021-09-20,"22.114,22",298.0,1
+1183,Karina Santos,39.0,SÃO PAULO,SP,Arrojado,2021-07-28,"311.203,03",7047.17,0
+1203,Elisa Ibrahim,26.0,Rio de Janeiro,RJ,MODERADO,2024-02-02,"R$ 131.370,16",3113.44,sim
+1283,Carla Pereira,19.0,Rio de Janeiro,RJ,Moderado,22/03/2022,"155.501,06",4258.8,sim
+1211,Vitor Ferreira,21.0,Recife,PE,,2024-03-24,,691.61,sim
+1282,Karina Pereira,19.0,Belo Horizonte,MG,  Conservador ,10/12/2019,"43.642,26",1299.24,1
+1129,Rafaela Tanaka,71.0,recife,PE,Moderado,2020-08-18,"128.976,20",2359.9,sim
+1038,Thiago Nunes,39.0,São Paulo,SP,Moderado,2021-01-03,"R$ 59.659,54",1541.39,1
+1011,Olívia Dias,36.0,SOROCABA,SP,Conservador,2022-09-05,"32.424,80",747.68,1
+1325,Rafaela Klein,28.0,,MG,Moderado,2020-02-18,"68.320,74",514.44,1
+1185,Pedro Dias,59.0,Recife,PE,Conservador,2021-04-12,"66.211,27",1934.61,sim
+1222,Rafaela Dias,60.0,Campinas,SP,Conservador,2019-09-28,"40.182,62",730.78,sim
+1112,Sofia Tanaka,57.0,Campinas,SP,Conservador,20/03/2025,"21.374,39",202.22,sim
+1179,Isabela Nunes,58.0,Porto Alegre,RS,Arrojado,2022-07-09,"232.540,30",4188.38,nao
+1327,Felipe Higashi,35.0,rio de janeiro,RJ,Conservador,10/05/2022,,256.74,0
+1299,Rafaela Junior,70.0,Rio de Janeiro,RJ,Conservador,23/07/2025,"R$ 31.502,57",707.48,nao
+1117,Ana Gomes,37.0,Sorocaba,SP,Conservador,2023-04-11,"R$ 40.308,86",365.67,1
+1368,Carla Barbosa,55.0,belo horizonte,MG,Moderado,14/02/2024,"117.177,98",982.01,1
+1277,Olívia Almeida,23.0,SOROCABA,SP,Moderado,2021-06-24,"144.653,03",3978.29,sim
+1033,Felipe Esteves,71.0,SOROCABA,SP,,12/07/2020,"41.834,85",683.89,sim
+1287,Henrique Klein,71.0,Ribeirão Preto,SP,Conservador,12/06/2020,"40.984,70",632.95,nao
+1362,Diego Barbosa,35.0,Curitiba,PR,Moderado,2024-06-17,"242.322,22",2859.68,sim
+1164,Henrique Esteves,42.0,CAMPINAS,SP,Conservador,06/04/2021,"37.809,53",1002.22,1
+1253,Rafaela Nunes,49.0,,RS,Arrojado,2020-11-06,"R$ 212.035,48",1855.52,sim
+1136,Karina Oliveira,39.0,Curitiba,PR,Moderado,05/09/2023,"103.557,45",1972.3,sim
+1154,Karina Junior,65.0,Curitiba,PR,Conservador,2022-10-08,"34.978,61",927.63,0
+1199,Lucas Oliveira,54.0,Santos,SP,Moderado,2020-07-23,"54.215,35",894.16,nao
+1197,Thiago Ibrahim,34.0,Sorocaba,SP,Conservador,2024-09-14,"52.948,70",1122.76,sim
+1141,Olívia Ribeiro,59.0,Belo Horizonte,MG,Conservador,2021-07-28,"30.376,85",169.52,1
+1002,Pedro Oliveira,31.0,,SP,Moderado,2020-08-08,"64.916,05",1667.74,sim
+1204,Elisa Santos,31.0,RIBEIRÃO PRETO,SP,,2024-05-10,"47.968,23",800.45,sim
+1115,Thiago Ribeiro,42.0,São Paulo,SP,Conservador,21/10/2024,"114.052,92",1645.63,sim
+1234,Pedro Almeida,75.0,São Paulo,SP,Conservador,21/07/2019,"42.205,97",1083.91,1
+1237,Nicolas Santos,69.0,BELO HORIZONTE,MG,Moderado,2023-06-03,"83.933,04",874.21,1
+1026,Vitor Junior,28.0,Curitiba,PR,moderado,28/10/2021,"59.835,87",763.39,nao
+1120,Thiago Carvalho,24.0,Porto Alegre,RS,Conservador,09/11/2024,"35.422,51",854.39,sim
+1357,Thiago Ribeiro,46.0,Porto Alegre,RS,Conservador,2021-12-25,"77.708,39",451.0,sim
+1224,Diego Gomes,70.0,,PE,Conservador,2024-07-08,"53.723,08",1179.18,sim
+1360,Rafaela Ferreira,47.0,Santos,SP,Arrojado,2025-07-15,"301.319,50",5698.6,sim
+1378,Nicolas Tanaka,43.0,Ribeirao Preto,SP,Arrojado,2022-12-08,"586.666,40",14051.19,sim
+1350,Olívia Santos,62.0,Porto Alegre,RS,Moderado,2021-11-24,"R$ 141.684,20",1739.35,1
+1379,Isabela Ibrahim,18.0,sorocaba,SP,,2019-07-13,"34.717,46",449.35,0
+1127,Bruno Junior,40.0,Sorocaba,SP,Conservador,2025-03-16,"R$ 41.700,86",339.51,sim
+1074,Nicolas Pereira,22.0,São Paulo,SP,Conservador,2021-08-16,"25.392,48",531.71,nao
+1322,Nicolas Dias,61.0,Ribeirão Preto,SP,Arrojado,2025-04-14,"401.564,81",7892.52,sim
+1029,Karina Ferreira,22.0,campinas,SP,Conservador,2025-04-12,"R$ 69.435,36",1497.83,sim
+1083,Bruno Higashi,30.0,Curitiba,PR,Arrojado,16/03/2019,"350.129,83",8950.92,nao
+1168,Carla Nunes,74.0,Porto Alegre,RS,Moderado,23/08/2022,"115.360,09",1723.26,sim
+1107,Lucas Ribeiro,33.0,Rio de Janeiro,RJ,Conservador,2019-05-01,"R$ 107.505,08",2108.82,sim
+1249,Karina Carvalho,51.0,Rio de Janeiro,RJ,Conservador,2021-06-18,"90.191,29",1203.04,sim
+1296,Karina Junior,61.0,porto alegre,RS,Arrojado,2025-05-27,"243.152,49",3161.96,nao
+1133,Gabriela Nunes,46.0,Campinas,SP,Arrojado,2022-09-12,"150.030,69",3473.89,sim
+1244,Isabela Ferreira,72.0,Campinas,SP,  Conservador ,2021-08-12,"R$ 39.135,93",514.87,sim
+1184,Karina Barbosa,72.0,SANTOS,SP,ARROJADO,2024-02-27,"R$ 315.647,66",8165.08,sim
+1290,Lucas Dias,71.0,Campinas,SP,Conservador,2021-01-08,"49.685,35",1144.06,nao
+1044,Olívia Lima,,Rio de Janeiro,RJ,arrojado,2023-02-18,"270.264,27",5502.44,sim
+1367,Elisa Pereira,65.0,Belo Horizonte,MG,Conservador,2019-02-28,"37.582,36",1021.7,sim
+1065,Karina Higashi,53.0,Belo Horizonte,MG,MODERADO,2023-07-09,"R$ 197.472,38",3117.19,sim
+1085,Felipe Nunes,70.0,Porto Alegre,RS,Moderado,2022-12-07,"86.325,20",441.34,nao
+1242,Diego Ibrahim,71.0,Rio de Janeiro,RJ,Moderado,2023-06-15,"214.340,61",6227.67,0
+1186,Vitor Moraes,73.0,Campinas,SP,Conservador,2019-10-16,"79.358,75",1801.13,sim
+1159,Karina Almeida,18.0,RIBEIRAO PRETO,SP,Moderado,2019-06-16,"424.989,14",9674.16,sim
+1012,Mariana Moraes,26.0,RECIFE,PE,MODERADO,2023-04-07,"158.609,02",2303.88,nao
+1035,Karina Almeida,71.0,Santos,SP,Conservador,2019-06-26,"32.524,50",287.53,nao
+1028,Carla Ibrahim,51.0,curitiba,PR,Conservador,2024-09-03,"33.285,16",761.74,1
+1170,Lucas Higashi,71.0,SANTOS,SP,Arrojado,2025-06-08,"236.588,22",3130.43,sim
+1142,João Ibrahim,43.0,SANTOS,SP,Arrojado,2023-07-24,"377.379,90",4926.84,sim
+1318,Rafaela Esteves,50.0,Santos,SP,Moderado,14/11/2021,"154.835,16",3689.23,1
+1272,Carla Esteves,-3.0,Campinas,SP,CONSERVADOR,09/06/2019,"19.953,04",587.64,sim
+1221,Carla Pereira,67.0,RIBEIRÃO PRETO,SP,Conservador,25/08/2019,"R$ 25.329,15",607.88,sim
+1095,Felipe Almeida,63.0,Belo Horizonte,MG,Conservador,15/09/2019,"67.525,75",1957.87,1
+1051,Sofia Moraes,55.0,Sorocaba,SP,Moderado,2024-04-28,"R$ 174.771,85",1391.53,nao
+1240,João Barbosa,43.0,Santos,SP,,27/06/2022,"R$ 85.817,15",2060.52,sim
+1298,Vitor Ferreira,38.0,Ribeirão Preto,SP,Moderado,09/08/2020,"R$ 99.803,95",1444.33,sim
+1304,Olívia Tanaka,35.0,Belo Horizonte,MG,Conservador,2025-01-26,"16.754,85",101.86,sim
+1178,Pedro Esteves,53.0,Curitiba,PR,Conservador,04/02/2025,"8.679,66",134.02,1
+1041,Olívia Gomes,43.0,Ribeirão Preto,SP,Conservador,2021-07-14,"103.432,79",1467.48,sim
+1310,Olívia Almeida,22.0,Belo Horizonte,MG,conservador,27/04/2019,"74.940,46",1738.4,sim
+1206,Mariana Ibrahim,71.0,são paulo,SP,Moderado,2022-12-18,"92.493,14",2467.65,sim
+1254,Henrique Oliveira,52.0,Campinas,SP,Arrojado,2024-06-26,"95.112,86",1189.56,nao
+1331,Olívia Ferreira,57.0,ribeirão preto,SP,CONSERVADOR,2024-06-14,"31.091,50",894.27,nao
+1004,Diego Junior,61.0,recife,PE,Arrojado,2024-06-03,"196.163,43",2797.58,sim
+1256,Elisa Dias,65.0,Rio de Janeiro,RJ,  Moderado ,2023-08-18,"R$ 193.245,68",3261.13,sim
+1358,Sofia Gomes,48.0,Belo Horizonte,MG,Conservador,2022-06-01,"23.469,70",533.68,nao
+1100,Ana Gomes,71.0,Ribeirao Preto,SP,Conservador,2023-02-06,"21.609,54",492.46,sim
+1226,Henrique Moraes,23.0,RIBEIRÃO PRETO,SP,Conservador,2023-10-15,"R$ 40.044,01",484.58,1
+1341,Carla Santos,39.0,Curitiba,PR,Moderado,2019-12-16,"97.718,99",2587.03,nao
+1213,Olívia Queiroz,199.0,Ribeirão Preto,SP,Conservador,13/07/2021,"35.442,61",861.12,1
+1171,Gabriela Dias,38.0,Sorocaba,SP,Conservador,16/07/2019,"61.243,12",885.87,sim
+1098,Isabela Lima,68.0,Sorocaba,SP,Conservador,2021-04-01,"35.623,30",614.06,1
+1215,Lucas Ibrahim,26.0,PORTO ALEGRE,RS,Moderado,12/03/2020,"30.298,30",294.53,sim
+1061,Diego Carvalho,49.0,CAMPINAS,SP,Moderado,2025-06-09,"197.838,83",4200.28,sim
+1047,Carla Santos,57.0,Rio de Janeiro,RJ,Moderado,2023-03-15,"R$ 138.119,61",2390.0,nao
+1032,Mariana Ferreira,64.0,RIBEIRÃO PRETO,SP,Conservador,2024-11-27,"36.576,76",737.04,sim
+1267,Pedro Carvalho,33.0,SOROCABA,SP,Conservador,2023-04-08,"R$ 101.697,44",1458.64,nao
+1200,Carla Barbosa,29.0,Santos,SP,Moderado,21/04/2022,"31.729,67",868.35,0
+1356,Henrique Barbosa,31.0,Santos,SP,Moderado,2021-12-05,"R$ 107.462,48",1910.53,sim
+1027,Felipe Klein,72.0,Rio de Janeiro,RJ,Conservador,2019-12-01,"42.043,35",922.49,1
+1312,Diego Lima,42.0,Curitiba,PR,Moderado,2021-12-25,"R$ 318.919,91",5586.37,0
+1230,Elisa Ibrahim,69.0,Curitiba,PR,  Conservador ,2024-03-23,"R$ 50.123,81",1227.12,sim
+1260,João Oliveira,26.0,Rio de Janeiro,RJ,Moderado,2022-11-06,"60.275,46",1401.07,sim
+1288,Vitor Almeida,38.0,Curitiba,PR,Moderado,2023-04-28,"138.759,10",3551.93,sim
+1162,João Queiroz,69.0,Rio de Janeiro,RJ,Moderado,2024-06-03,"154.101,48",4200.28,nao
+1370,Mariana Ribeiro,22.0,Curitiba,PR,,2022-07-03,"53.753,91",1406.47,sim
+1138,Pedro Santos,56.0,Campinas,SP,Moderado,23/03/2020,"135.482,68",1783.45,1
+1062,Gabriela Moraes,41.0,Belo Horizonte,MG,Moderado,2019-04-27,"344.750,05",2879.48,sim
+1135,Diego Gomes,34.0,São Paulo,SP,Moderado,2023-10-25,"153.369,83",2804.42,sim
+1128,Carla Dias,27.0,Campinas,SP,Moderado,2021-01-25,"58.411,04",661.77,sim
+1008,Lucas Barbosa,56.0,Sorocaba,SP,Moderado,17/08/2022,"43.593,24",1051.69,sim
+1064,Olívia Klein,42.0,,SP,MODERADO,2023-07-10,"R$ 202.102,85",3902.9,sim
+1300,Sofia Lima,50.0,SOROCABA,SP,Conservador,03/09/2024,"40.248,88",712.08,sim
+1014,João Oliveira,59.0,Ribeirão Preto,SP,conservador,2019-11-13,"35.726,36",264.72,sim
+1156,Bruno Gomes,39.0,Santos,SP,Conservador,2024-02-27,"29.669,97",705.77,nao
+1040,Mariana Esteves,49.0,Porto Alegre,RS,Moderado,2023-05-22,"247.101,94",4094.48,0
+1366,Isabela Barbosa,71.0,CURITIBA,PR,Conservador,2022-12-17,"R$ 21.698,76",147.8,1
+1323,Ana Esteves,29.0,Recife,PE,Conservador,2020-06-19,"39.022,25",1168.39,sim
+1216,Isabela Esteves,67.0,Curitiba,PR,moderado,05/05/2023,"73.641,81",2177.93,1
+1279,Pedro Dias,57.0,Curitiba,PR,conservador,2022-10-28,"46.476,83",835.62,sim
+1346,Diego Higashi,65.0,Recife,PE,Moderado,2021-06-04,"136.244,50",1604.75,1
+1236,Gabriela Tanaka,64.0,Sorocaba,SP,CONSERVADOR,2023-11-23,"32.302,07",360.45,sim
+1207,João Junior,47.0,Porto Alegre,RS,Moderado,2022-07-23,"212.653,97",1147.3,sim
+1212,Vitor Lima,26.0,Curitiba,PR,  Moderado ,27/04/2021,"58.540,73",637.01,sim
+1295,Isabela Barbosa,53.0,Ribeirão Preto,SP,Conservador,2023-08-02,"32.573,68",438.94,sim
+1364,Olívia Klein,29.0,Campinas,SP,Conservador,2019-03-27,"15.223,15",88.65,nao
+1251,Rafaela Almeida,32.0,santos,SP,Conservador,2023-12-19,"57.889,87",368.95,sim
+1234,Pedro Almeida,75.0,São Paulo,SP,Conservador,21/07/2019,"42.205,97",1083.91,1
+1365,Lucas Klein,50.0,PORTO ALEGRE,RS,Moderado,25/07/2023,"237.461,47",5333.55,sim
+1303,Lucas Moraes,59.0,São Paulo,SP,  Conservador ,2023-02-22,"33.823,11",991.08,sim
+1269,Rafaela Santos,54.0,Rio de Janeiro,RJ,Conservador,2024-02-15,"25.672,60",192.73,0
+1201,Diego Oliveira,,Recife,PE,Conservador,2024-09-06,"R$ 54.527,31",1476.09,nao
+1161,Henrique Almeida,,Santos,SP,Conservador,2019-11-15,"64.004,71",1402.75,sim
+1043,Diego Oliveira,46.0,Rio de Janeiro,RJ,ARROJADO,2021-01-19,"220.868,52",4599.13,sim
+1217,Diego Dias,0.0,Recife,PE,Moderado,2020-02-21,"205.092,23",3426.23,sim
+1190,Ana Higashi,30.0,porto alegre,RS,Moderado,02/03/2022,"150.962,42",4442.8,0
+1309,Rafaela Higashi,36.0,Rio de Janeiro,RJ,Conservador,2025-03-24,"R$ 51.474,52",1145.0,sim
+1259,João Ibrahim,29.0,Recife,PE,Conservador,2023-12-16,"8.040,10",163.58,1
+1105,Gabriela Oliveira,60.0,sao paulo,SP,Conservador,2023-11-10,"R$ 29.458,25",681.36,sim
+1053,Ana Ribeiro,18.0,Sorocaba,SP,,09/05/2025,"302.666,77",2350.12,sim
+1001,Isabela Queiroz,47.0,Curitiba,PR,Moderado,04/10/2023,"178.421,59",5025.98,sim
+1049,Vitor Carvalho,65.0,SANTOS,SP,Conservador,22/04/2020,"R$ 24.879,39",319.97,1
+1080,Lucas Tanaka,63.0,Belo Horizonte,MG,Arrojado,2023-06-23,"R$ 385.137,22",8977.68,sim
+1205,Thiago Esteves,28.0,,PR,conservador,2021-11-08,"54.073,82",679.93,sim
+1034,Rafaela Gomes,65.0,Porto Alegre,RS,  Conservador ,2020-02-11,"R$ 20.999,90",417.08,nao
+1263,Nicolas Nunes,25.0,Belo Horizonte,MG,MODERADO,08/06/2019,"33.157,83",290.63,sim
+1091,Lucas Gomes,73.0,Sorocaba,SP,Moderado,2020-05-22,"R$ 91.121,42",2499.0,sim
+1339,Nicolas Moraes,68.0,ribeirão preto,SP,Moderado,2022-03-01,"R$ 182.392,94",4316.93,1
+1052,Felipe Tanaka,52.0,Sorocaba,SP,Moderado,2022-10-21,"116.724,28",1909.37,1
+1345,Bruno Higashi,0.0,Sorocaba,SP,Conservador,01/10/2023,"121.538,52",1314.29,sim
+1264,Rafaela Oliveira,22.0,Santos,SP,Moderado,2019-05-15,,1376.13,sim
+1241,Isabela Klein,71.0,Belo Horizonte,MG,moderado,2019-02-14,"59.364,32",1391.37,sim
+1013,Pedro Tanaka,,SANTOS,SP,Arrojado,2020-06-04,"323.939,72",7286.27,sim
+1315,Isabela Dias,30.0,campinas,SP,  Conservador ,2020-02-17,"69.317,69",1815.55,0
+1088,Carla Carvalho,59.0,sorocaba,SP,ARROJADO,22/05/2022,"R$ 804.047,52",9977.47,sim
+1273,Olívia Klein,75.0,são paulo,SP,Moderado,2025-01-08,"76.501,88",1192.77,1
+1166,Rafaela Nunes,24.0,SÃO PAULO,SP,Moderado,2019-10-27,"R$ 56.998,95",1499.62,1
+1328,Elisa Santos,,Curitiba,PR,Conservador,2025-07-11,"127.442,60",3645.32,sim
+1250,Ana Tanaka,67.0,Rio de Janeiro,RJ,Conservador,28/07/2020,"R$ 13.041,40",312.78,0
+1134,Rafaela Lima,45.0,sao paulo,SP,Arrojado,2025-09-03,"112.032,41",1056.57,sim
+1306,Henrique Carvalho,70.0,Belo Horizonte,MG,Arrojado,2024-03-01,"168.857,14",2468.2,0
+1039,Mariana Pereira,64.0,São Paulo,SP,,26/08/2023,"R$ 200.606,04",4912.23,nao
+1319,João Ibrahim,61.0,Ribeirao Preto,SP,Conservador,2025-11-09,"R$ 94.927,57",2092.91,1
+1243,Elisa Lima,52.0,ribeirão preto,SP,Conservador,01/09/2019,"33.901,49",791.15,nao
+1054,Ana Esteves,66.0,Curitiba,PR,Conservador,2025-11-20,"43.159,92",313.38,nao
+1050,Pedro Moraes,43.0,Rio de Janeiro,RJ,Conservador,2021-12-27,"R$ 90.349,01",1700.8,1
+1174,Sofia Esteves,20.0,belo horizonte,MG,Moderado,2020-09-10,"134.358,87",760.92,1
+1189,Sofia Esteves,60.0,São Paulo,SP,  Arrojado ,2020-04-13,"585.958,01",3445.08,sim
+1056,Rafaela Tanaka,53.0,Porto Alegre,RS,Arrojado,2023-01-07,,3018.7,sim
+1187,Elisa Tanaka,54.0,PORTO ALEGRE,RS,Moderado,2025-12-04,"R$ 149.354,36",2776.11,sim
+1169,Isabela Ibrahim,,Santos,SP,Arrojado,2021-09-03,"149.900,44",2093.63,sim
+1058,Olívia Klein,67.0,São Paulo,SP,Conservador,2019-04-01,"17.718,06",174.1,sim
+1048,Nicolas Oliveira,24.0,CURITIBA,PR,Conservador,2020-10-26,"R$ 48.983,11",757.53,sim
+1344,Nicolas Klein,23.0,Sorocaba,SP,Conservador,13/05/2024,"56.602,92",1628.27,sim
+1235,Diego Junior,,Belo Horizonte,MG,Moderado,2021-09-18,"49.768,99",805.5,0
+1252,Rafaela Moraes,27.0,Campinas,SP,  Moderado ,2022-01-11,"157.759,28",2535.39,nao
+1021,Elisa Almeida,60.0,Ribeirão Preto,SP,Moderado,2020-12-21,,5269.15,sim
+1313,Rafaela Ibrahim,34.0,Porto Alegre,RS,Arrojado,2020-10-14,"341.568,42",7559.03,1
+1160,Lucas Dias,46.0,Santos,SP,Conservador,03/10/2021,"23.105,27",553.32,sim
+1276,Olívia Junior,28.0,Sorocaba,SP,,2021-05-12,"129.348,00",1795.41,1
+1191,Pedro Esteves,26.0,CAMPINAS,SP,Moderado,2023-08-06,"126.624,90",2333.76,1
+1293,Lucas Santos,36.0,Recife,PE,Moderado,2019-11-25,"153.427,28",1103.75,sim
+1343,Rafaela Ferreira,23.0,Campinas,SP,Moderado,2019-11-12,"119.165,53",2539.92,sim
+1257,Isabela Esteves,51.0,São Paulo,SP,Conservador,2025-07-13,"31.230,52",799.83,1
+1308,João Queiroz,33.0,Ribeirão Preto,SP,Arrojado,2021-07-04,"128.732,04",1281.26,1
+1149,Ana Tanaka,47.0,Campinas,SP,Moderado,2025-01-16,"170.322,40",3630.79,sim
+1130,Bruno Santos,61.0,PORTO ALEGRE,RS,Moderado,2022-05-20,"141.027,24",3951.11,sim
+1151,Henrique Gomes,62.0,São Paulo,SP,moderado,10/12/2021,"52.184,35",1332.31,1
+1359,Ana Ribeiro,50.0,Ribeirão Preto,SP,Arrojado,2019-10-18,"145.346,26",1633.95,sim
+1099,Gabriela Esteves,48.0,curitiba,PR,Conservador,2023-11-08,"R$ 11.409,81",193.93,sim
+1372,Sofia Esteves,37.0,Belo Horizonte,MG,Moderado,2020-01-01,"195.548,63",1788.06,nao
+1087,Nicolas Barbosa,59.0,Porto Alegre,RS,CONSERVADOR,2020-11-17,"34.173,72",928.29,sim
+1330,Lucas Moraes,41.0,CAMPINAS,SP,Conservador,2025-07-19,"37.245,25",1009.04,1
+1214,Karina Oliveira,18.0,Belo Horizonte,MG,  Moderado ,2025-03-06,"32.546,74",194.18,nao
+1121,Isabela Barbosa,38.0,Recife,PE,Conservador,2022-03-27,"46.889,02",591.35,sim
+1090,Gabriela Ibrahim,21.0,Sao Paulo,SP,Conservador,2025-08-27,"R$ 47.681,79",778.74,sim
+1020,Nicolas Carvalho,65.0,Santos,SP,ARROJADO,2023-02-09,"238.276,67",4491.73,sim
+1188,Bruno Oliveira,46.0,Curitiba,PR,Moderado,06/05/2019,"100.476,34",1410.69,sim
+1071,Rafaela Tanaka,59.0,rio de janeiro,RJ,,2024-03-05,"R$ 636.890,00",12036.73,nao
+1106,Diego Pereira,69.0,Campinas,SP,Moderado,2019-09-19,"110.731,64",951.51,sim
+1270,Thiago Tanaka,52.0,Recife,PE,Moderado,2020-08-15,"136.467,49",3369.23,nao
+1348,João Queiroz,50.0,Curitiba,PR,Conservador,28/01/2023,"R$ 51.781,23",571.3,1
+1102,Diego Ribeiro,52.0,Ribeirão Preto,SP,Arrojado,2022-08-15,"274.554,77",7230.19,sim

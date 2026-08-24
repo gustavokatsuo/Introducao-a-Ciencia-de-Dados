@@ -1,0 +1,39 @@
+# Capacitação Introdutória de Ciência de Dados — FEA.dev
+#
+# Dependências DIRETAS do material, com faixas de versão testadas.
+# Não é um "pip freeze": listamos apenas o que o material realmente importa,
+# e deixamos o pip resolver as dependências transitivas.
+#
+# Python 3.9 ou superior.
+#
+# Instalação:
+#     pip install -r requirements.txt
+#
+# No Google Colab nada disso é necessário: todas estas bibliotecas já vêm
+# instaladas no ambiente padrão.
+
+# --- núcleo de dados ---------------------------------------------------------
+numpy>=1.23,<3.0
+pandas>=1.5,<3.0
+
+# --- visualização ------------------------------------------------------------
+matplotlib>=3.6,<4.0
+seaborn>=0.12,<0.14          # 0.12+ é necessário para errorbar= e estimator="median"
+
+# --- estatística -------------------------------------------------------------
+# Exigida pelo pandas em .corr(method="spearman"), usado no módulo 03,
+# aula 3. Sem ela essa chamada falha com ImportError.
+# (O kde=True do seaborn NÃO depende dela: o seaborn traz o próprio
+#  gaussian_kde em seaborn/external/kde.py desde a versão 0.11.)
+scipy>=1.9,<2.0
+
+# --- leitura de planilhas Excel (pd.read_excel) ------------------------------
+openpyxl>=3.0,<4.0
+
+# --- ambiente de notebooks ---------------------------------------------------
+jupyterlab>=3.5,<5.0
+ipykernel>=6.20,<7.0
+
+# --- execução automatizada dos notebooks (usada pela CI) ---------------------
+nbconvert>=6.5,<8.0
+nbclient>=0.7,<0.11
